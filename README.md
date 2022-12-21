@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Leonard Munene.<br>- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning Front End Tech Stack JavaScript Precisely.<br>- 💞️ I’m looking to collaborate on Open Source JS Projects.<br>- 📫 How to reach me - Leonard_Munene (Telegram).<br>-✨Fun Facts -Amateur Photographer.
+- 👋 Hi, I’m Leonard Munene.<br>- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning Front End Tech Stack JavaScript Precisely.<br>- 💞️ I’m looking to collaborate on Open Source JS Projects.<br>- 📫 How to reach me - https://t.me/Leonard_Munene (Telegram).<br>-✨Fun Facts -Amateur Photographer.
 
 
 ## 🌐 Socials:
